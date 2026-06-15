@@ -1,4 +1,4 @@
-﻿namespace ProjetoMvc.Controllers;
+﻿namespace ProjetoMvc.Models;
 
 public class Contato
 {
